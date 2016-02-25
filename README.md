@@ -1,3 +1,5 @@
+### My favorite free books on statistics and R programming
+
 -   [Advanced R](http://adv-r.had.co.nz) (Hadley Wickham)
 -   [R for Data Science](http://r4ds.had.co.nz) (Garret Grolemund and
     Hadley Wickham)
